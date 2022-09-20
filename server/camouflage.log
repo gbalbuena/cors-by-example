@@ -1,0 +1,53 @@
+2022-09-20 21:51:26 [32minfo[39m: [1968] Master Started 
+2022-09-20 21:51:26 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics 
+2022-09-20 21:51:27 [32minfo[39m: CORS enabled for http://localhost:3000/, http://localhost:3001/, http://localhost:5000/ 
+2022-09-20 21:51:27 [32minfo[39m: [1970] Worker started 
+2022-09-20 21:51:27 [32minfo[39m: Handlebar helpers registration started 
+2022-09-20 21:51:27 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-20 21:51:27 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-20 21:51:27 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
+2022-09-20 21:54:30 [31merror[39m: No suitable mock file found: /Users/gabriel/dev/cors-by-example/server/mocks/__/GET.mock 
+2022-09-20 21:54:30 [33mwarn[39m: HTTP GET /favicon.ico :: Query Parameters: {} | Request Headers {"host":"localhost:8080","connection":"keep-alive","sec-ch-ua":"\"Google Chrome\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","sec-ch-ua-platform":"\"macOS\"","accept":"image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"image","referer":"http://localhost:8080/hello-world","accept-encoding":"gzip, deflate, br","accept-language":"en-AU,en;q=0.9,es-UY;q=0.8,es;q=0.7","cookie":"ajs_anonymous_id=%22f51d1aca-a853-46c3-9558-e62e8af13be2%22; _ga=GA1.1.222390120.1635997831; _ga_SFQMYF6TY6=GS1.1.1638246052.5.0.1638246052.0; _ga_5YW1W9QWMJ=GS1.1.1642072405.22.0.1642072405.0"} | Request Body {} 
+2022-09-20 22:03:16 [32minfo[39m: [4494] Master Started 
+2022-09-20 22:03:16 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics 
+2022-09-20 22:03:17 [32minfo[39m: CORS enabled for http://localhost:3000, http://localhost:3001, http://localhost:5000 
+2022-09-20 22:03:17 [32minfo[39m: [4496] Worker started 
+2022-09-20 22:03:17 [32minfo[39m: Handlebar helpers registration started 
+2022-09-20 22:03:17 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-20 22:03:17 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-20 22:03:17 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
+2022-09-20 22:04:05 [32minfo[39m: [4577] Master Started 
+2022-09-20 22:04:05 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics 
+2022-09-20 22:04:05 [32minfo[39m: [4579] Worker started 
+2022-09-20 22:04:05 [32minfo[39m: Handlebar helpers registration started 
+2022-09-20 22:04:05 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-20 22:04:05 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-20 22:04:05 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
+2022-09-20 22:04:10 [31merror[39m: No suitable mock file found: /Users/gabriel/dev/cors-by-example/server/mocks/hello-world/OPTIONS.mock 
+2022-09-20 22:04:10 [33mwarn[39m: HTTP OPTIONS /hello-world :: Query Parameters: {} | Request Headers {"host":"localhost:8080","connection":"keep-alive","accept":"*/*","access-control-request-method":"POST","access-control-request-headers":"content-type","origin":"http://localhost:3000","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","sec-fetch-mode":"cors","sec-fetch-site":"same-site","sec-fetch-dest":"empty","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"en-AU,en;q=0.9,es-UY;q=0.8,es;q=0.7"} | Request Body {} 
+2022-09-20 22:05:26 [31merror[39m: No suitable mock file found: /Users/gabriel/dev/cors-by-example/server/mocks/hello-world/OPTIONS.mock 
+2022-09-20 22:05:26 [33mwarn[39m: HTTP OPTIONS /hello-world :: Query Parameters: {} | Request Headers {"host":"localhost:8080","connection":"keep-alive","accept":"*/*","access-control-request-method":"POST","access-control-request-headers":"content-type","origin":"http://localhost:3000","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","sec-fetch-mode":"cors","sec-fetch-site":"same-site","sec-fetch-dest":"empty","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"en-AU,en;q=0.9,es-UY;q=0.8,es;q=0.7"} | Request Body {} 
+2022-09-20 22:06:40 [32minfo[39m: [4702] Master Started 
+2022-09-20 22:06:40 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics 
+2022-09-20 22:06:41 [32minfo[39m: CORS enabled for http://localhost:3000, http://localhost:3001, http://localhost:5000 
+2022-09-20 22:06:41 [32minfo[39m: [4704] Worker started 
+2022-09-20 22:06:41 [32minfo[39m: Handlebar helpers registration started 
+2022-09-20 22:06:41 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-20 22:06:41 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-20 22:06:41 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
+2022-09-20 22:08:15 [32minfo[39m: [4885] Master Started 
+2022-09-20 22:08:15 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics 
+2022-09-20 22:08:15 [32minfo[39m: CORS enabled for http://localhost:3000, http://localhost:3001, http://localhost:5000 
+2022-09-20 22:08:15 [32minfo[39m: [4887] Worker started 
+2022-09-20 22:08:15 [32minfo[39m: Handlebar helpers registration started 
+2022-09-20 22:08:15 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-20 22:08:15 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-20 22:08:15 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
+2022-09-20 22:09:36 [32minfo[39m: [5159] Master Started 
+2022-09-20 22:09:36 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics 
+2022-09-20 22:09:36 [32minfo[39m: CORS enabled for http://localhost:3000, http://localhost:3001, http://localhost:5000, http://localhost:8888 
+2022-09-20 22:09:36 [32minfo[39m: [5161] Worker started 
+2022-09-20 22:09:36 [32minfo[39m: Handlebar helpers registration started 
+2022-09-20 22:09:36 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-20 22:09:36 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-20 22:09:36 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
